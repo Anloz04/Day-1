@@ -5,4 +5,4 @@ the window is the first thing that gets loaded into the browser. This window obj
 The document object is your html, aspx, php, or other document that will be loaded into the browser. 
 The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie, etc.
 it describes the physical display of the full screen.
-document contains the DOM, initialized by parsing HTML
+document contains the DOM, initialized by parsing HTML.
